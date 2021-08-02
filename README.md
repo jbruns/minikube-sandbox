@@ -334,3 +334,6 @@ There's also a couple Github workflows included in this repository that will hel
 
 - [Flux upgrade schedule](./.github/workflows/flux-schedule.yaml) - workflow to upgrade Flux.
 - [Renovate schedule](./.github/workflows/renovate-schedule.yaml) - workflow to annotate `HelmRelease`'s which allows [Renovate](https://www.whitesourcesoftware.com/free-developer-tools/renovate) to track Helm chart versions.
+
+### Workflow Notes
+- [Adding a new namespace](https://github.com/jbruns/minikube-sandbox/commit/844824c2482283941aa3a806142abf760c38d39f)
