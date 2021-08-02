@@ -3,4 +3,3 @@ kind: Kustomization
 resources:
 - cert-manager.yaml
 - networking.yaml
-- media.yaml
