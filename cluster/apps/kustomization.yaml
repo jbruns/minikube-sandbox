@@ -3,5 +3,3 @@ kind: Kustomization
 resources:
 - networking
 - monitoring
-- media
-- home
